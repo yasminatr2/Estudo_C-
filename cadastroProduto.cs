@@ -8,7 +8,7 @@ namespace cadastroProduto
     {
         public static void Main(){
             
-            Console.WriteLine("Olá"); // Use Console.WriteLine para exibir a mensagem
+            Console.WriteLine("sistema de cadastro e produtos"); // Use Console.WriteLine para exibir a mensagem
             Console.ReadLine();
 
         }
